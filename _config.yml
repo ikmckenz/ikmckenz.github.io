@@ -22,7 +22,7 @@ github_username:  ikmckenz
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/minimal
+theme: minima
 plugins:
   - jekyll-feed
 
