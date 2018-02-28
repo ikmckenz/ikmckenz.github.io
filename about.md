@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Ian McKenzie, I am currently a Finance and Math student living in Calgary, Canada.
+Soon I will be moving to Chicago for work.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find find me on GitHub at:
+[ikmkenz][my-hg]
 
 
-[jekyll-organization]: https://github.com/jekyll
+[my-hg]: https://github.com/ikmckenz
