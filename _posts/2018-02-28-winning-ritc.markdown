@@ -10,7 +10,9 @@ Some of the schools we beat include Carnegie Mellon's MSCF program, Baruch Colle
 I was personally responsible for the algorithmic trading case and I came in fourth place. 
 This was a fantastic learning experience for me and I am very grateful for it.
 
-Check out [my professors website][dr-sick] for a little description and some pictures, and stay tuned for our university's press release!
+Check out [my professor's website][dr-sick] for a little description and some pictures, our [university's press release][utoday], and the [Rotman press release][rotman-press].
 
 [dr-sick]: http://people.ucalgary.ca/~sick/RITC/2018/index.html
 [ritc-main]: http://ritc.rotman.utoronto.ca/
+[utoday]: http://www.ucalgary.ca/utoday/issue/2018-03-02/ucalgary-takes-first-2018-rotman-international-trading-competition
+[rotman-press]: http://www.rotman.utoronto.ca/Connect/MediaCentre/NewsReleases/20180227
