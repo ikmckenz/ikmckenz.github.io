@@ -21,13 +21,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ikmckenz
 linkedin_username: iankmckenzie
 
+google_analytics: UA-115066179-1
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-google_analytics: UA-115066179-1
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
