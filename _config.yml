@@ -22,6 +22,11 @@ github_username:  ikmckenz
 #linkedin_username: iankmckenzie
 google_analytics: UA-115066179-1
 
+header_pages:
+  - about.md
+  - quantbot.md
+
+
 # Build settings
 markdown: kramdown
 theme: minima
