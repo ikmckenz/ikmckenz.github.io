@@ -23,7 +23,7 @@ Use `!quant_bot hist TICKER`
 where TICKER is the stock you are interested in.
 
 #### Peer Analysis
-Get a detailed peer analysis, inluding a graph of normalized returns for all peers, a table of peers with analytical data, and a correlation matrix generated with one year of price data.
+Get a detailed peer analysis, including a graph of normalized returns for all peers, a table of peers with analytical data, and a correlation matrix generated with one year of price data.
 Use `!quant_bot peers TICKER`
 where TICKER is the stock you are interested in.
 
